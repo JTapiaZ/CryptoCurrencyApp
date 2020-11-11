@@ -57,35 +57,41 @@ La siguiente documentación contiene las rutas y la forma de utilizar el proyect
 Aquí la explicación de las rutas:
 
 
-Para registrarse: 
+Para **Registrarse**: 
 
 ```
 addUser
 ```
 
-Para iniciar sesión:
+Para **Iniciar sesión**:
 
 ```
 loginUser
 ```
 
-Para listar todas las monedas con su precio (En su tipo de moneda preferido):
+Para **Listar info de todas las monedas con su precio (En su tipo de moneda preferido)**:
 
 ```
 allCoins
 ```
 
-Para agregar monedas a seguimiento: 
+Para **Agregar monedas a seguimiento**: 
 
 ```
 addCoins
 ```
 
 
-Para ver las monedas en seguimiento:
+Para **Ver las monedas en seguimiento y su informacion (Orden Descendente Default / Precio)**:
 
 ```
 myCoins
+```
+
+Para **Ver las monedas en seguimiento y su informacion (Orden Ascendente / Precio)**:
+
+```
+myCoinsAsc
 ```
 
 
