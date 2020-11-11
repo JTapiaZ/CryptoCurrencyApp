@@ -19,7 +19,7 @@ Tener instalado NodeJs en tu maquina local y Postman, para correr las rutas
 
 ### Instalación 🔧
 
-_Para instalar el proyecto debes ingresar el siguiente comando en tu cmd de Windows o en el powershell de VS Code_
+_Para instalar el proyecto debes ingresar el siguiente comando en tu cmd de Windows o en la terminal de comandos de VS Code_
 
 ```
 npm install
@@ -29,7 +29,7 @@ _Luego de finalizar con la instalación de dependencias procedemos a correr el p
 
 ## Ejecutando el proyecto ⚙️
 
-_Para ejecutar el proyecto debes ingresar el siguiente comando en tu cmd de Windows o en el powershell de VS Code_
+_Para ejecutar el proyecto debes ingresar el siguiente comando en tu cmd de Windows o en la terminal de comandos de VS Code_
 
 
 _Si es para ejecutarlo en modo **Desarrollo**_
