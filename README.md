@@ -54,6 +54,41 @@ La siguiente documentación contiene las rutas y la forma de utilizar el proyect
 (https://documenter.getpostman.com/view/9184620/TVemA9Hq#9a0139ee-8434-465d-8eca-03d3fd5d5ff1)
 
 
+Aquí la explicación de las rutas:
+
+
+Para registrarse: 
+
+```
+addUser
+```
+
+Para iniciar sesión:
+
+```
+loginUser
+```
+
+Para listar todas las monedas con su precio (En su tipo de moneda preferido):
+
+```
+allCoins
+```
+
+Para agregar monedas a seguimiento: 
+
+```
+addCoins
+```
+
+
+Para ver las monedas en seguimiento:
+
+```
+myCoins
+```
+
+
 ## Construido con 🛠️
 
 _Las siguientes librerias_
