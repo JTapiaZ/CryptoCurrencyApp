@@ -51,7 +51,7 @@ npm run prod
 La siguiente documentación contiene las rutas y la forma de utilizar el proyecto: 
 
 
-(https://documenter.getpostman.com/view/9184620/TVemA9Hq?version=latest#9a0139ee-8434-465d-8eca-03d3fd5d5ff1)
+(https://documenter.getpostman.com/view/9184620/TVemA9Hq#9a0139ee-8434-465d-8eca-03d3fd5d5ff1)
 
 
 ## Construido con 🛠️
