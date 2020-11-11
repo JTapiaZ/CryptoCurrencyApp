@@ -60,6 +60,7 @@ _Las siguientes librerias_
 
 * [NodeJS](https://nodejs.org/es/) - El entorno backend usado
 * [Express](https://expressjs.com/es/) - Manejador de servidor
+* [MongoDB](https://www.mongodb.com/es) - Base de datos
 * [Mongoose](https://mongoosejs.com/) - Manejador de base de datos
 * [JWT](https://jwt.io/) - Usado para generar Token al iniciar sesión
 
